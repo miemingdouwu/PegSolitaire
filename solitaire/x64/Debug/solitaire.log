@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Administrator\Desktop\solitaire\solitaire\main.cpp(244,31): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\solitaire\solitaire\main.cpp(246,74): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\solitaire\solitaire\main.cpp(246,61): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\solitaire\solitaire\main.cpp(247,92): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\solitaire\solitaire\main.cpp(247,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\solitaire\solitaire\main.cpp(249,31): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\solitaire\solitaire\main.cpp(251,74): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\solitaire\solitaire\main.cpp(251,61): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\solitaire\solitaire\main.cpp(252,106): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\solitaire\solitaire\main.cpp(252,54): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  solitaire.vcxproj -> C:\Users\Administrator\Desktop\solitaire\x64\Debug\solitaire.exe
